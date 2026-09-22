@@ -21,7 +21,7 @@ The dashboard examines readmission patterns across admission type, discharge dis
 Interactive KPI cards, slicers, and visualizations were created in Power BI to make healthcare trends easier to identify and communicate.
 
 ## Dashboard Preview
-A dashboard screenshot will be added below.
+![Hospital Readmission Dashboard](hospital-readmission-dashboard.png)
 
 ## Portfolio Note
 This repository is a public portfolio showcase. Full working files and development materials are maintained separately.
